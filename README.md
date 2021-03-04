@@ -1,6 +1,6 @@
 #  Repositori Koleksi Nota KPD
 <br>
-<h2> *Kewujudan repositori ini adalah sebagai usaha bagi mewujudkan suatu repositori berpusat agar dokumen berkaitan boleh diedarkan dengan konsisten* </h2>
+<h2><em>Kewujudan repositori ini adalah sebagai usaha bagi mewujudkan suatu repositori berpusat agar dokumen berkaitan boleh diedarkan dengan konsisten</em></h2>
 <br>
 **Credit:**
 <br>
