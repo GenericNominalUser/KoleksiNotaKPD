@@ -1,1 +1,0 @@
-This text file is a metarile for testing git's pull functionality
